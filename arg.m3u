@@ -862,17 +862,17 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1445_Teatrix.png" group-title="ENTRETENIMIENTO", Teatrix
-https://content.uplynk.com/channel/585ab4fbd865426abd6fbd48fc631b6e.m3u8
+https://r.mjh.nz/PlutoTV/63ceb6ff60bc8f00088dc625-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Lofi_girl_logo.jpg?20210803000946" group-title="MUSICA", Lofi Girl
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716846318/ei/jqpUZp3wEvLX1sQP8cyQ-AE/ip/2803%3A9800%3A9097%3A8cb8%3Af012%3A87ec%3A371a%3A22bb/id/jfKfPfyJRdk.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJkuC1L_mOo7fEgvyCRnpcLPXpW4E-fxvYqMGcEbx963AiBWPlga16t1El5u-p8n9x17hT37tj0b2loHyEwW6cuRJw%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620e67a63b5e370007e06bb2/colorLogoPNG.png" group-title="INFANTIL", Chiquititas
+#EXTINF:-1 tvg-logo="/images.pluto.tv/channels/620e67a63b5e370007e06bb2/colorLogoPNG.png" group-title="INFANTIL", Chiquititas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620e67a63b5e370007e06bb2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63f6294449839300085c4bd2/colorLogoPNG.png" group-title="INFANTIL", Rincon de luz
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63f6294449839300085c4bd2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
+https:/
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png" group-title="INFANTIL", SUPER CAMPEONES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64666345f3f5b1000882bfb4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
