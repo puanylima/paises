@@ -1325,7 +1325,7 @@ https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 https://live.enhdtv.com:19360/tvplaydigital2/tvplaydigital2.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuOTWFu_8y-qIXam5g0zFDLoCHd3Ik5Zah8ps2yLB6l2Y3KceuwV3Jt2YiCu9pL_sFvFA&usqp=CAU" group-title="PCIA BS AS", JUNTO AL CAMPO
-https://stmv5.livecastv.com/juntoalcampo/juntoalcampo/playlist.m3u8
+https://stmv5.livecastv.com/juntoalcampo/juntoalcampo/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIcvcEfCDDMI64P-XhuxuiWN0jV2WEn6qM3IfX1kYWh8atD3b4K8032h_yIEG42uvA2g&usqp=CAU" group-title="PCIA BS AS", AGENDA NECOCHENSE
 https://stmvideo1.livecastv.com/agendaagenda/agendaagenda/playlist.m3u8
@@ -2435,7 +2435,7 @@ https://ythls.armelin.one/channel/UCI_zuiftc7tc2A4HGEEYRGg.m3u8
 
 
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="SANTA FE", TELEFE ROSARIO 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0348
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0345
 
 #EXTINF:-1 tvg-id="TelefeSantaFe.ar" tvg-logo="https://pbs.twimg.com/profile_images/1669538372061208579/Wibfqd9H_400x400.jpg" group-title="SANTA FE", TELEFE SANTA FE
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0351
