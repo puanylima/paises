@@ -51,24 +51,27 @@ http://45.5.151.151:8000/play/a0fe/index.m3u8
 http://45.5.151.151:8000/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 3
-http://gustvplay.com:8080/fypQrQ9W23x5/Mcf44CXmjtJz/99
+http://181.191.140.2:8000/play/a0ip/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 4
-http://gustvplay.com:8080/fypQrQ9W23x5/Mcf44CXmjtJz/147
+http://181.191.140.2:8000/play/a0gf/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 5
-http://abcnew.site:8880/3ca04303n08/asfefd4wr34/49718
+http://gustvplay.com:8080/fypQrQ9W23x5/Mcf44CXmjtJz/99
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 6
-http://abcnew.site:8880/3ca04303n08/asfefd4wr34/49981
+http://gustvplay.com:8080/fypQrQ9W23x5/Mcf44CXmjtJz/147
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 7
-http://zeuspro.xyz:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/153802
+http://abcnew.site:8880/3ca04303n08/asfefd4wr34/49981
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 8
-http://zeuspro.xyz:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1529
+http://zeuspro.xyz:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/153802
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 9
+http://zeuspro.xyz:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1529
+
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 10
 http://zeuspro.xyz:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/309414
 
 
