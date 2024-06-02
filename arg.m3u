@@ -436,7 +436,7 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 http://177.222.108.82:2500/play/a0h5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ek_6qw0u6haNRkFE6uGos7WgtQ6VYTeWKaxRWwg8J9easyR-1slEEPrHbfkAW6e2EVzMceQY=s176-c-k-c0x00ffffff-no-rj" group-title="DEPORTIVOS", CLARO SPORTS
-http://todoporti.eu:80/Roberto6218/Ts8D4ka93xkC/79316
+https://r.mjh.nz/PlutoTV/6320d80a66666000086712d7-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/638df6f8b63cf100075ccfa1/colorLogoPNG.png" group-title="DEPORTIVOS", Chilevision Deportes
 https://r.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
@@ -492,7 +492,7 @@ http://181.205.130.194:4000/play/a07s/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/800px-ESPN_Premium_logo.svg.png" group-title="DEPORTIVOS", ESPN PREMIUN MX
 http://186.148.163.18:8000/play/a050/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTIVOS",Win Sports+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/100px-Win_Sports%2B_logo.svg.png" group-title="DEPORTIVOS", Win Sports+
 http://186.148.163.18:8000/play/a043/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png" group-title="DEPORTIVOS", ALL SPORTS
@@ -906,17 +906,11 @@ https:/
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png" group-title="INFANTIL", SUPER CAMPEONES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64666345f3f5b1000882bfb4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="DEPORTIVOS", DAZN FUTBOL FEMENINO
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64b02bbd7d93410008fdae60livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6132429ec9e0db0007a91425/colorLogoPNG.png" group-title="ENTRETENIMIENTO", SUSANA GIMENEZ
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6132429ec9e0db0007a91425/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" group-title="ENTRETENIMIENTO", Telefe Hits
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---FTV.png" group-title="ENTRETENIMIENTO", FASHION TV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b600000_t64MjQwcA==.m3u8
 
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="CURIOSIDAD" , La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
