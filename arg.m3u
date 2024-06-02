@@ -782,7 +782,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="NOTICIAS INTERNACIONAL", GALICIA TV
-http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1rtWgqD.jpg" group-title="NOTICIAS INTERNACIONAL",3/24
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
