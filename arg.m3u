@@ -100,7 +100,7 @@ https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_
 http://190.11.130.46/mnp/elnueve/output.mpd
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_9.jpg" group-title="NACIONALES", EL NUEVE
-http://190.11.130.46/mnp/elnueve/output.mpd
+http://181.191.140.2:8000/play/a0he/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="NACIONALES", TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8  
@@ -112,10 +112,7 @@ http://190.11.130.46/mnp/telefe/output.mpd
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NACIONALES", EL TRECE
-https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="NetTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/NET_TV.jpg" group-title="NACIONALES", NET TV
-https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
+http://181.191.140.2:8000/play/a0ir/index.m3u8
 
 #EXTINF:-1 tvg-id="NetTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/NET_TV.jpg" group-title="NACIONALES", NET TV
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -130,7 +127,7 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 https://ythls.armelin.one/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdsxNVXq/609-Canal-Ciudad.png" group-title="NACIONALES" , CANAL DE LA CIUDAD
-https://ythls.armelin.one/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
+http://181.191.140.2:8000/play/a0hw/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://fotos.perfil.com/2024/03/04/trim/1280/720/caras-tv-1764928.jpg" group-title="NACIONALES", CARAS TV 
 https://unlimited1-buenosaires.dps.live/carastv/carastv.smil/playlist.m3u8
@@ -193,7 +190,6 @@ https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
 https://g5.proy-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6bFkcbsklRXLeB2ajrnCl8/c5ccbf53c3ab168c6448fb76265d5778/canal-quiero-musica.png?fm=webp&q=80" group-title="NACIONALES" , Quiero Música
 http://181.191.140.2:8000/play/a0g8/index.m3u8
 
@@ -201,8 +197,10 @@ http://181.191.140.2:8000/play/a0g8/index.m3u8
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409840532529029128/jDV8aWP-_400x400.jpg" group-title="NACIONALES", CIUDAD MAGAZINE
-https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+http://181.191.140.2:8000/play/a0g1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409840532529029128/jDV8aWP-_400x400.jpg" group-title="NACIONALES", CIUDAD MAGAZINE
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3McziTZ5M5VJkRn4IBIPAh/53add865f835209e59decf37bacb705e/Metro.png?fm=webp&q=80" group-title="NACIONALES" , METRO
 http://181.191.140.2:8000/play/a0g0/index.m3u8
