@@ -1164,7 +1164,7 @@ https://tv.streamcasthd.com:3752/live/classfmtvlive.m3u8
 https://tv.streamcasthd.com:3338/live/radiotradicional1340live.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/178b98_a06ec6fbe9464d7ea9163783c967c826.jpg/v1/fit/w_2500,h_1330,al_c/178b98_a06ec6fbe9464d7ea9163783c967c826.jpg" group-title="RADIO-AMBA", FM OK 105.7 FLORENCIO VARELA
-https://panel.dattalive.com/8124/8124/playlist.m3u8
+https://streamlov.alsolnet.com/okfm/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.fm891.com.ar/wp-content/uploads/2020/07/logo_horizontal_20.png" group-title="RADIO-AMBA", FM 89.1 RADIO UNIVERSIDAD SAN JUSTO
 https://s8.stweb.tv/unlam/video2/playlist.m3u8
@@ -1173,7 +1173,7 @@ https://s8.stweb.tv/unlam/video2/playlist.m3u8
 https://tuvideoonline.com.ar:3393/live/antena91live.m3u8
 
 #EXTINF:-1 tvg-logo="http://nuevoshorizontesfm.com.ar/img/logo_1676402769.png" group-title="RADIO-AMBA", NUEVOS HORIZONTES 107.5 FM  
-https://inliveserver.com:1936/9000/9000/playlist.m3u8  
+https://inliveserver.com:1936/9000/9000/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s83607/images/logod.jpg?t=157062" group-title="RADIO-AMBA", CADENA 1470 AM LANUS
 https://stmvideo1.livecastv.com/am1470/am1470/playlist.m3u8
@@ -1206,10 +1206,10 @@ http://streamer.fmfutura.com.ar:8000/vivo.mp3
 https://videohd.live:19360/8124/8124.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.paste.pics/a3ab912fa9960e91a32d82029b6f445e.png" group-title="RADIO-AMBA", DEMOS RADIO VISUAL VICENTE LOPEZ
-https://panel.dattalive.com/8066/8066/playlist.m3u8
+https://videostream.shockmedia.com.ar:19360/demosvisual/demosvisual.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.koaradio.net/index_htm_files/4.jpg" group-title="RADIO-AMBA", RADIO KOA RAFAEL CASTILLO
-https://panel.dattalive.com/8028/8028/playlist.m3u8
+https://panel.host-live.com/8028/8028/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.galactica.com.ar/assets/images/697027-ico-256x256.webp" group-title="RADIO-AMBA", RADIO GALACTICA
 https://stream.trixserver.com:3733/live/uv005live.m3u8
@@ -1806,9 +1806,6 @@ https://videohd.live:19360/8020/8020.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116524_Azahares_Radio_multimedia.png" group-title="CORRIENTES", RADIO AZAHARES FM 101.5 CORRIENTES
 http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ss-static-01.esmsv.com/id/131575/galeriaimagenes/obtenerimagen/?id=radio_013&tipoEscala=cropStart&width=300&height=343" group-title="CORRIENTES", FM PLUS 98.5 CORRIENTES
-https://panel.dattalive.com/8994/8994/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.radiosudamericana.com/images/logo.png" group-title="CORRIENTES", Radio Sudamericana
 https://ythls.armelin.one/channel/UCfnW8ZvUokNzgBDioLyb2Jw.m3u8
 
@@ -1883,7 +1880,7 @@ https://cs1.xcast.com.br/8488/8488/playlist.m3u8
 https://videohd.live:19360/8096/8096.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-i_6us5hKR0M/X40Q2cKWFHI/AAAAAAAAP50/yCMLNOmyUhohJFnYsbgZdB_bCNWCNjAJQCLcBGAsYHQ/s0/radio-costa-parana-fm-88-1.png" group-title="ENTRE RIOS", COSTA PARANA 88.1 FM
-https://panel.dattalive.com/8108/8108/playlist.m3u8
+https://panel.host-live.com/8108/8108/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJV402YRaAG3orjwhyhjntvRD5_e1cuK0L81dxMKUA=s176-c-k-c0x00ffffff-no-rj" group-title="ENTRE RIOS", Tele5 Digital
 https://ythls.armelin.one/channel/UC5lUjiuS_elD_bnWgVW3_JQ.m3u8
@@ -2152,7 +2149,7 @@ https://video.tecnosoul.com.ar:8443/live/656db4dcdd70b-1/index.m3u8
 https://ythls.armelin.one/channel/UCm_cxxWg7khWQwsPMaLjoQQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/707937991654768640/H_thUBiX_400x400.jpg" group-title="MISIONES", CVI CANAL 5 Iguazu
-https://panel.dattalive.com/8078/8078/playlist.m3u8
+https://panel.host-live.com/8078/8078/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1347295937333522434/p0KOxUjd_400x400.jpg" group-title="MISIONES", RADIO CE - SAN VICENTE
 https://panel.dattalive.com/8098/8098/playlist.m3u8
@@ -2297,13 +2294,10 @@ https://restreamer.el10tv.com/memfs/725003c4-79c2-4565-8311-f429db4f7777.m3u8
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mosconitv.com.ar/template/img/logo/logo_header.svg" group-title="SALTA", MOSCONI TV
-https://panel.dattalive.com/8126/8126/playlist.m3u8
+https://panel.host-live.com/8126/8126/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b7b640_979e29e625374f56818318d29761e139~mv2.png/v1/fill/w_106,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20stv%202022%20png%20mosca.png" group-title="SALTA", SPACIO TV METAN SALTA
 https://stream.arcast.live/spaciotv/ngrp:spaciotv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://radioaoran.com.ar/wp-content/uploads/2022/05/cropped-logg.png" group-title="SALTA", RADIO A 92.3 FM ORAN
-https://stmv3.voxtvhd.com.br/054/054/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radiosalta.com.ar/assets/public/radio_salta.png" group-title="SALTA", RADIO SALTA 840
 https://vivo.solumedia.com:19360/radiosalta/radiosalta.m3u8
@@ -2652,9 +2646,6 @@ https://videohd.live:19360/8090/8090.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png" group-title="TUCUMAN", CANAL 12 TUCUMAN
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
-
-#EXTINF:-1 tvg-logo="https://radiostucuman.com/images/MIRADIO1.png" group-title="TUCUMAN", MI RADIO 92.7 TUCUMAN
-https://videostream.shockmedia.com.ar:19360/rttvoficial/rttvoficial.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/95jqCF8jvfzHEXJZGpSkR9PLFkDLvgpC1bVyGIujZC7KEj7ghZgAEn3xygl8LjTaDgw_N6I8zqk=s176-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", CANAL 4 SANTA MARIA (DE 12 A 13)
 https://ythls.armelin.one/channel/UCofCCCDfOjS41wo8XB_PDXg.m3u8 
