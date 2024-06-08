@@ -1720,6 +1720,9 @@ https://videohd.live:19360/8078/8078.m3u8
 #EXTINF:-1 tvg-logo="https://radioalegriafmweb.com/imagenes/banner.png" group-title="CORDOBA", ALEGRIA TV BELLVILLE 
 https://videostream.shockmedia.com.ar:19360/cadenaalegriafm/cadenaalegriafm.m3u8
 
+#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/tv-tio-pujio.png?itok=QGApHr8I" group-title="CORDOBA", TV TIO PIJIO 
+https://ssh101-fl.bozztv.com/ssh101/variedades/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUpZ4U3PrHwfvekbRXCTK7Kzt-Ljs-m3Z4AQ02e=s176-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", Radio Stylo Dolores 92.7
 https://ythls.armelin.one/channel/UChvHz8XEgQjHbuQfCb1Uatw.m3u8
 
@@ -2443,6 +2446,9 @@ https://ythls.armelin.one/channel/UCRtZO3mPqvCMYfmJogXyW7g.m3u8
 
 #EXTINF:-1 tvg-logo="https://vivetv.com.ar/imagenes/logo_vivetv_web.png" group-title="SANTA FE", VIVE TV FUNES SANTA FE
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
+
+#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/canal-5-del-pueblo.png?itok=xeDioec1" group-title="SANTA FE", CANAL 5 DEL PUEBLO
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m-rLPwMeU5Ch-5NZsIGmfMadzuRqEKPd6zzChhqg=s176-c-k-c0x00ffffff-no-rj" group-title="SANTA FE", CADENA 3 ROSARIO
 https://ythls.armelin.one/channel/UCNxohbqfDp8YxW_Mji2XMHA.m3u8
