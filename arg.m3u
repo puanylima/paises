@@ -334,10 +334,10 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0004
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1569312379703365637/fdzc1Tzz_400x400.jpg" group-title="NOTICIAS NACIONALES", RADIO MITRE
 https://ythls.armelin.one/channel/UCYvINPByAdCcpA0sWrF3I_w.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wRy3AgzuKPU64ppne21ccwQU_TDcFwke4m3NRFw-1zdPgUjCBjlUoNmQDXJ5QgakwQ0tDKmC=s88-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", RADIO RIVADAVIA AM 630
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Radio_Rivadavia_%282020%29.png/800px-Radio_Rivadavia_%282020%29.png" group-title="NOTICIAS NACIONALES", RADIO RIVADAVIA AM 630
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0002
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wRy3AgzuKPU64ppne21ccwQU_TDcFwke4m3NRFw-1zdPgUjCBjlUoNmQDXJ5QgakwQ0tDKmC=s88-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", RADIO RIVADAVIA AM 630
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Radio_Rivadavia_%282020%29.png/800px-Radio_Rivadavia_%282020%29.png" group-title="NOTICIAS NACIONALES", RADIO RIVADAVIA AM 630
 https://ythls.armelin.one/channel/UCLAj5TzCrNbqe3LosSKHLcQ.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS4.png" group-title="NOTICIAS NACIONALES", RADIO CONTINENTAL AM 590
@@ -907,7 +907,7 @@ https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7787b527-5f39-4180-98c9-6d093d3215c8-peliculas-top-rakuten-tv-1621956596.png" group-title="CINE" , Películas Top
 https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_TopFree/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2902&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=ef648bcf-66b2-4392-befe-bff481023b6f&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=840
 
-#EXTINF:-1 vg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/%2BCine.png?itok=SZFveXdQ" group-title="CINE", +CINE
+#EXTINF:-1 vg-logo="https://static-1.ivoox.com/canales/2/5/7/8/8411631878752_XXL.jpg" group-title="CINE", +CINE
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
 
 #EXTINF:-1 vg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/terror-tv.png?itok=zJEAmIlW" group-title="CINE", TERROR TV
@@ -928,7 +928,7 @@ https://r.mjh.nz/PlutoTV/63ceb6ff60bc8f00088dc625-alt.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Lofi_girl_logo.jpg?20210803000946" group-title="MUSICA", Lofi Girl
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716846318/ei/jqpUZp3wEvLX1sQP8cyQ-AE/ip/2803%3A9800%3A9097%3A8cb8%3Af012%3A87ec%3A371a%3A22bb/id/jfKfPfyJRdk.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJkuC1L_mOo7fEgvyCRnpcLPXpW4E-fxvYqMGcEbx963AiBWPlga16t1El5u-p8n9x17hT37tj0b2loHyEwW6cuRJw%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-logo="/images.pluto.tv/channels/620e67a63b5e370007e06bb2/colorLogoPNG.png" group-title="INFANTIL", Chiquititas
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620e67a63b5e370007e06bb2/colorLogoPNG.png" group-title="INFANTIL", Chiquititas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620e67a63b5e370007e06bb2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63f6294449839300085c4bd2/colorLogoPNG.png" group-title="INFANTIL", Rincon de luz
@@ -955,16 +955,16 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/encuentro.png" group-title="TDA NACIONAL", CANAL ENCUENTRO 22.1
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png" group-title="TDA NACIONAL", CANAL ENCUENTRO 22.1
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/pakapaka.png" group-title="TDA NACIONAL", PAKA PAKA 22.2
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Pakapaka_canal_logo.svg/290px-Pakapaka_canal_logo.svg.png" group-title="TDA NACIONAL", PAKA PAKA 22.2
 https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" group-title="TDA NACIONAL", AUNAR 22.3
 https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cinear.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/cine-ar.png" group-title="TDA NACIONAL", CINEAR 22.4
+#EXTINF:-1 tvg-id="Cinear.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CINEARLogo.png" group-title="TDA NACIONAL", CINEAR 22.4
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TecTV.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/tec.png" group-title="TDA NACIONAL", TEC 22.5
@@ -976,7 +976,7 @@ https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_
 #EXTINF:-1 tvg-logo="https://www.construirtv.com/wp-content/uploads/2020/03/Logo_300.png" group-title="TDA NACIONAL", CONSTRUIR TV 23.2
 http://190.11.130.46/mnp/construiriptv/output.mpd
 
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/deportv.png" group-title="TDA NACIONAL", DEPORTV 24.1
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/800px-DeporTV_%282020_Logo_oficial%29.png" group-title="TDA NACIONAL", DEPORTV 24.1
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://yt3.googleusercontent.com/qiB2U_CZaAY_4IdZydkjJwMxnGCpr0v-tLoJmKrjG0KeqA3rLdj5hQ73jnOIjq2kmUcPajCvCTA=s176-c-k-c0x00ffffff-no-rj" group-title="TDA NACIONAL", CANAL 26 24.2
@@ -2774,9 +2774,6 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ba0b7563-f805-4ee2-903f-f4fc5149ad0c/artflix_logo_light_-_Toni_Newesil.png" group-title="CINE", ARTFLIX - Películas Clásicas
 https://i.mjh.nz/Plex/643054b1fc3be59477853717-6348a34c1159f6a5ce819b81.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/318953392_152520087525070_763550339019320332_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGlDAnP78rPXmv4Lwg2Ig2Am6Q3kEBDqESbpDeQQEOoRGqwUDXnhPZGdfFM9gIIs_g&_nc_ohc=oCs3LBsFBuQAX9lYgr5&_nc_ht=scontent.faep7-1.fna&oh=00_AfBxHyvpZR8efpQcsgxoImLvPu1mZaJavzijgbCNAxYM3g&oe=660BB884" group-title="CINE", Teleclasica
-https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/99d1f745bbde1c70f7199fc8c979cd6fa8fd51d920a654e40876f49764b4f701.png" group-title="CINE", Tigueritos TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 
@@ -3209,9 +3206,6 @@ https://qwest-jazz-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/317qcmP-7GL.jpg" group-title="MUSICA", QWEST MIX
 https://qwest-mix-plex.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/994234348508532736/ZgmIRgmP_400x400.jpg" group-title="MUSICA", GO-RTV
-https://593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/chunklist_w1291658822.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/929_Italianissimo.png" group-title="MUSICA", Italianissimo
 https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
