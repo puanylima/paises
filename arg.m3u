@@ -2204,11 +2204,9 @@ https://stmvideo2.livecastv.com/zonagospel/zonagospel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3cio_Qgzd_qujR2hFRp7kyIfdcB2XmU9w9Fs_mtVCPXffgMNrTdciv0OPXKnJJ42wS60&usqp=CAU" group-title="NEUQUEN", CANAL 10 SENILLOSA NEUQUEN
 https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-10-neuquen-tv.png" group-title="NEUQUEN", CANAL 10 NEUQUEN
-https://stmv1.srvstm.com/tv10/tv10/playlist.m3u8   
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/URKOfghZgHmz0zqZnci997MtOf5AozMifK_RWUtcdIec8CYtZlBByryaqujPdgbwgfY49gP59g=s176-c-k-c0x00ffffff-no-rj" group-title="NEUQUEN", VEX TV
+https://ythls.armelin.one/channel/UCyo6BZ0hE2A31-XLpVKWDlQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.amcumbre.com/wp-content/uploads/2021/11/logo-negro.png" group-title="NEUQUEN", CUMBRE AM 1400
-https://streamcasthd.com:19360/amcumbre1400tv/amcumbre1400tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lavozdeldesierto.com.ar/images/design/isologo.png" group-title="NEUQUEN", FM LA VOZ DEL DESIERTO NEUQUEN
 https://stmv1.srvstm.com/vozdesierto/vozdesierto/playlist.m3u8
@@ -2229,8 +2227,8 @@ https://ythls.armelin.one/channel/UCQRV7jNXdt2zuQouqgPmDYQ.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg" group-title="RIO NEGRO", CANAL 10 RIO NEGRO
-http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tGe0VH_w0ptumT8Z-BY7U2fxxCNEtIsf4Tb8kOaoCJb5h5TRy78e_MWBc2CXO8bKWkCqCJGZuRA=s176-c-k-c0x00ffffff-no-rj" group-title="RIO NEGRO", CANAL 10 RIO NEGRO
+https://ythls.armelin.one/channel/UCqcRu9coKWnbrr1Ooj354PQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://zerofm.com.ar/wp-content/uploads/2020/05/radiozero-200.png" group-title="RIO NEGRO", RADIO ZERO 94.5 FM CATRIEL
 https://srv5.zcast.com.br/radiozero/radiozero/playlist.m3u8
@@ -2342,10 +2340,10 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj" group-title="SAN JUAN", ZONDA TV SAN JUAN
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/del-sur-tv.png" group-title="SAN JUAN", DEL SUR TV SAN JUAN
+#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/82536410_1298596117000777_4339975353511444480_o_1.png" group-title="SAN JUAN", DEL SUR TV SAN JUAN
 https://cnnsanjuan.com:9999/live/delsurtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png" group-title="SAN JUAN", CANAL 34 SAN JUAN
+#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/82536410_1298596117000777_4339975353511444480_o_0.png?itok=zbFF-GkD" group-title="SAN JUAN", CANAL 34 SAN JUAN
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://one951.com.ar/wp-content/uploads/2023/10/cropped-logo-blanco-one-951.png" group-title="SAN JUAN",ONE FM 95.1 
@@ -2366,10 +2364,10 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0317
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/ig-group.jpg?itok=ToqkzdW4" group-title="SAN JUAN", IGL GROUP TV
 https://vd01.streaminghd.net.ar:3049/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-40-plus.png" group-title="SAN JUAN", CANAL 40 CAUCETE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVXhlgSw5SACbz1uBeSQbxF6SMUAjRcoHjTa2X7mv4qWAGhUXwtzP8MHwGrhEQxw3vBR8&usqp=CAU" group-title="SAN JUAN", CANAL 40 CAUCETE
 https://canalsj.kozow.com/canal40/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-40-plus.png" group-title="SAN JUAN", CANAL 40 CAUCETE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVXhlgSw5SACbz1uBeSQbxF6SMUAjRcoHjTa2X7mv4qWAGhUXwtzP8MHwGrhEQxw3vBR8&usqp=CAU" group-title="SAN JUAN", CANAL 40 CAUCETE
 https://canalsj.kozow.com/canal40/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.diariodelsol.com.ar/images/2.jpeg" group-title="SAN JUAN", FM DEL SOL 91.9 SAN JUAN
@@ -2499,7 +2497,7 @@ https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQY_HK9O5T7Eaq_O2DNcf4tFtbLkqWOmleAzQ&usqp=CAU" group-title="SANTA FE", PLAY TELEVISION SANTA FE
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://envivotves.com/static/custom/logo.png?t=2024-03-17+03%3A04%3A23.196806" group-title="SANTA FE", TVES SAN JOSE DE LA ESQUINA SANTA FE
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/009icxIXrcSE8JOXhXI_V8X_c8eZGNXQDJuE-T_Lu59OGnjv2hIjclNe8DzrZizqRXs" group-title="SANTA FE", TVES SAN JOSE DE LA ESQUINA SANTA FE
 https://vivo.solumedia.com:19360/tves/tves.m3u8
 
 #EXTINF:-1 tvg-logo="https://tdconline.com.ar/wp-content/uploads/2022/05/online.png" group-title="SANTA FE", TDC TV SANTA FE
@@ -2529,7 +2527,7 @@ https://panel.dattalive.com/8064/8064/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1622530748866502659/0B1HWjGI_400x400.jpg" group-title="SANTA FE", RADIO RAFAELA DIGITAL
 https://tv.streamcasthd.com:3215/live/radiorafaelalive.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.fmzona.com.ar/images/logo-mediano3.png" group-title="SANTA FE", ZONA FM 101.7 - VILLA CONSTITUCION
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EeNaVdp2r8Un-7awHXqcZdt75zAMVjDdTIYMELeYSdMjxZMnFLS2nokdYIOAFp-DclcL" group-title="SANTA FE", ZONA FM 101.7 - VILLA CONSTITUCION
 http://streamyes.alsolnet.com/fmzonatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radiowox.com.ar/wp-content/uploads/2022/01/logo2.png" group-title="SANTA FE", WOX ROSARIO 88.3 FM
@@ -2625,19 +2623,16 @@ https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipPgjdHAlBegrsJSNzBzu71dqqLdcdqoUigxzRWw=s680-w680-h510" group-title="TUCUMAN", LA VOZ TV TUCUMAN
 https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/calchaqui-tv.png" group-title="TUCUMAN", CALCHAQUI TV
-https://stream.trixserver.com:3836/live/uv068live.m3u8
-
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/panc-tv.png" group-title="TUCUMAN", PANC TV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ob2qAy4_BnP38nhRstDX6Js1yGIC6d7qHK4T6dWlCiN577QmDQz8RI2R6suRWMWGRVsihLEs=s176-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", PANC TV
 https://stream.trixserver.com:3088/live/uv096live.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/el-palomar-tv.png" group-title="TUCUMAN", PALOMAR TV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n9OhYzpvfe3TOqqksSWvjj5OnwlOpGK7NQShlZrDdVwS0=s900-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", PALOMAR TV
 https://stream.trixserver.com:3249/live/uv038live.m3u8   
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1097897648948948992/bS8JOGDt_400x400.png" group-title="TUCUMAN", CANAL 5 TUCUMAN
 https://videohd.live:19360/8090/8090.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png" group-title="TUCUMAN", CANAL 12 TUCUMAN
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FDDBNt6WYAArZVM?format=jpg&name=4096x4096" group-title="TUCUMAN", CANAL 12 TUCUMAN
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/95jqCF8jvfzHEXJZGpSkR9PLFkDLvgpC1bVyGIujZC7KEj7ghZgAEn3xygl8LjTaDgw_N6I8zqk=s176-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", CANAL 4 SANTA MARIA (DE 12 A 13)
@@ -2645,6 +2640,10 @@ https://ythls.armelin.one/channel/UCofCCCDfOjS41wo8XB_PDXg.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8vbEC8bs7jGp8a4BXCtqFOMK_LctZc43IJwsCX2zAgyvyerAEgdzKKRI4TykU32lmP1M6aR5=s176-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", La tucumana FM (DE 6 A 11)
 https://ythls.armelin.one/channel/UCS_F0326eeAQY09gFqJILCw.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5XkvytM.png" group-title="TUCUMAN", CALCHAQUI TV
+https://stream.trixserver.com:3836/live/uv068live.m3u8
+
 
 
 
@@ -3003,16 +3002,13 @@ https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
-#EXTINF:-1 tvg-logo="https://canalalma.tv/gallery_gen/d4ee8c23ac0698546b81b200493c4784_597x273_0x4_597x336_crop.png?ts=1711430025" group-title="URUGUAY", Canal ALMA
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/MT_a6-84V3kFflxL1BWMBJs0YyQTYfSbN8h-Y_7uX-ZmFeIwCdOU2ZAITvjDhvLwX_Y=w240-h480-rw" group-title="URUGUAY", Canal ALMA
 https://live.cloudhostservers.com:3486/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hM1tpQ7lGzoKJgbZ1Fg0PZvS_PeypucTuMMTJvHYNT1DE-a44M_WSeIqOOG3bOK_TaSf=w240-h480" group-title="URUGUAY",Canal Más
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hM1tpQ7lGzoKJgbZ1Fg0PZvS_PeypucTuMMTJvHYNT1DE-a44M_WSeIqOOG3bOK_TaSf=w240-h480" group-title="URUGUAY", Canal Más
 https://tvlive.servicioselbachi.com:3686/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uYQh7gCFq6lKgn6DoEY2BFMrUsghGcy5IVuuaVy-egVfWtp085SRl4FzTJNjf1qhIpm7FkDr=s176-c-k-c0x00ffffff-no-rj" group-title="URUGUAY", CIUDAD TV
-https://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfX1RWX0NpdWRhZCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzEwODY5NTM0JnJhbmRvbT1vU2F6Q2NkdnJwJmMtaXA9MTgxLjExNy4xNjcuNTgmaWRfcmVmZXJlbmNpYT0maWRfZGlzcG9zaXRpdm89MCZpZF9mcm9udGVuZD0xMjgwJnB1YmxpY19pZD0yc2dzbSwyY2Y3ZTMzYTAxYmZhNTI0ZmNmYTQ4YzdmZWFmZmVlOTQ0MjdhMDMxMTNlZDY3OTgzYjRlNjlhN2QzNzFkYWFi/vxfmt=hls/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uYQh7gCFq6lKgn6DoEY2BFMrUsghGcy5IVuuaVy-egVfWtp085SRl4FzTJNjf1qhIpm7FkDr=s176-c-k-c0x00ffffff-no-rj" group-title="URUGUAY", CIUDAD TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TVCiudad_logo_2020.png/140px-TVCiudad_logo_2020.png" group-title="URUGUAY", CIUDAD TV
 https://ythls.armelin.one/channel/UCcEFFCUo9fD5DK1FcclyKUA.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/tv-live-streaming-online-television-web-tv-logo-concepto-boton-reproduccion-blanco-fondo-azul-plantilla-diseno-logotipo-canal-tv_228967-775.jpg" group-title="URUGUAY", Del Este TV
@@ -3024,7 +3020,7 @@ https://stmv1.srvif.com/tv6842/tv6842/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1382698919474380800/ZQ-bfjHp_400x400.jpg" group-title="URUGUAY", UCL TV
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/300640754_371522888517838_6889520694039382142_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFCbscOv5yZe1t9CZohsst8aEIkxrdE24toQiTGt0Tbi3cfeEW4glU3ueN74wzgqCc&_nc_ohc=k5wdHtjHXrMAX-UELpj&_nc_ht=scontent.faep7-1.fna&oh=00_AfCDnYPDtUCK6zCC0bPPx6Q8rkaQCfi3Jh6UnrpbyyqmEw&oe=65FD918A" group-title="URUGUAY", TELE 8 MERCEDES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRObJfLKxicub3tNXHxM-ZGga-nciRJ_6naYKr4en9QL8E7v81rxBPioStjE_nR3RQpYcw&usqp=CAU" group-title="URUGUAY", TELE 8 MERCEDES
 http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_db459382223d48f092d71151178a3797~mv2.png/v1/crop/x_0,y_108,w_1080,h_846/fill/w_1080,h_846,al_c,q_90,enc_auto/b22f37_db459382223d48f092d71151178a3797~mv2.png" group-title="URUGUAY", Latino Kids TV 
