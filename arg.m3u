@@ -1163,20 +1163,14 @@ https://g3.vxral-slo.transport.edge-access.net/b08/ngrp:cronica_fmq-100044_all/c
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROemK8-dSOkvxNct66KtjqZ7Rr1gM_5id3Jg&usqp=CAU" group-title="RADIO-AMBA", FM 90.1 TRUJUI
 https://stmvideo2.livecastv.com/fmtrujui/fmtrujui/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A12ZTP1poAm-r0MSEWCa7r3majA6OuUHKvSHZdaCbiMGccwPQRp2qc_J5lXWPj9drKeZ=s180" group-title="RADIO-AMBA", LA 1120 AM SANTIAGO Y COPLA - G LAFERRERE
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A12ZTP1poAm-r0MSEWCa7r3majA6OuUHKvSHZdaCbiMGccwPQRp2qc_J5lXWPj9drKeZ=s180" group-title="RADIO-AMBA", LA 1130 AM SANTIAGO Y COPLA - G LAFERRERE
 https://panel.dattalive.com/8140/8140/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1392874118857564170/1pAEWGj0_400x400.jpg" group-title="RADIO-AMBA", RADIO ENSAMBLE
-https://tv.streamcasthd.com:3850/live/ensamblecontenidoslive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radiojai.com/wp-content/uploads/2021/01/logo_jai_celeste-1.png" group-title="RADIO-AMBA", RADIO JAI
 https://vivo.solumedia.com:19360/jaitv/jaitv.m3u8
 
 #EXTINF:-1 tvg-logo="https://beatsradio.com.ar/imagenes/logo.png" group-title="RADIO-AMBA", BEATS  - 100.5 FM - TIGRE
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/d4611bb5de55a463af7b7af2ee821d06.png" group-title="RADIO-AMBA", SONIDO SUR TV
-https://tv.streamcasthd.com:3553/live/sonidosurtvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/W2KdC8bXe-lXWS7ki5lcoW9cJ_59kNiiiMmCvbfU6pM6Dj1lLVoRZmanBdJ3oXcVzzUbhymr2A=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", VORTERIX - 92.1 FM
 https://g3.vxral-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_540p.m3u8
@@ -1196,14 +1190,10 @@ https://s8.stweb.tv/unlam/video2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://antena91.com.ar/wp-content/uploads/2022/05/LOGO-nuevo-a91fm-1.png" group-title="RADIO-AMBA", A91 FM 90.9 ANTENA 91 LOMAS DE ZAMORA
 https://tuvideoonline.com.ar:3393/live/antena91live.m3u8
 
-#EXTINF:-1 tvg-logo="http://nuevoshorizontesfm.com.ar/img/logo_1676402769.png" group-title="RADIO-AMBA", NUEVOS HORIZONTES 107.5 FM  
-https://inliveserver.com:1936/9000/9000/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s83607/images/logod.jpg?t=157062" group-title="RADIO-AMBA", CADENA 1470 AM LANUS
 https://stmvideo1.livecastv.com/am1470/am1470/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kDPCvojQb2E/X_Q5MnzksRI/AAAAAAAAJGk/SGon23v2K3UO2gI7MIFoSiNkSxYULDN4ACK4BGAYYCw/s1600/345.png" group-title="RADIO-AMBA", RADIO ROCHA AM 1570 LA PLATA
-https://stmvideo1.livecastv.com/radiorocha/radiorocha/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIONDALA.png" group-title="RADIO-AMBA", ONDA 1010 AM
 https://stream.trixserver.com:3743/live/uv008live.m3u8
@@ -1235,6 +1225,12 @@ https://panel.host-live.com/8028/8028/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.galactica.com.ar/assets/images/697027-ico-256x256.webp" group-title="RADIO-AMBA", RADIO GALACTICA
 https://stream.trixserver.com:3733/live/uv005live.m3u8
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kDPCvojQb2E/X_Q5MnzksRI/AAAAAAAAJGk/SGon23v2K3UO2gI7MIFoSiNkSxYULDN4ACK4BGAYYCw/s1600/345.png" group-title="RADIO-AMBA", RADIO ROCHA AM 1570 LA PLATA
+https://stmvideo1.livecastv.com/radiorocha/radiorocha/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://nuevoshorizontesfm.com.ar/img/logo_1676402769.png" group-title="RADIO-AMBA", NUEVOS HORIZONTES 107.5 FM  
+https://inliveserver.com:1936/9000/9000/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.freepik.com/vector-gratis/inspiracion-diseno-logotipo-microfono_57043-231.jpg" group-title="RADIO-AMBA", RADIO MAXIMO PAZ
 https://vivo.solumedia.com:19360/maximopaz/maximopaz.m3u8
 
@@ -1252,6 +1248,9 @@ https://ythls.armelin.one/channel/UCC1kfsMJko54AqxtcFECt-A.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/MPGVFdswIwc8Fq8FtxsOCvlj1nSVpIta5nGP4AzA81mZtK2HiYC8Cz_uMZZTVIocNJLhaZ76dbQ=s88-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", Pop Radio 101.5
 https://ythls.armelin.one/channel/UCtc_WjDRwCrZSEq2WEwD7XQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/97sLhCzI_E89ZkqUzcJiB5qwaurcB0o7XYP979p34w82R2r_7ZtQZhxKAV8POPFq3IMDrxbaXBk=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA",  FM Vale 97.5 
+https://ythls.armelin.one/channel/UC1Oa7gHuqzGHB90FPb0ssPA.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUmFb2DMdngJH3RjI4eBdmlLyfUHTRCugSS6HFrIA=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", FM Ser 89.7
 https://ythls.armelin.one/channel/UCfXRDaPfc1xEkXlXtovnbaw.m3u8
@@ -1279,9 +1278,6 @@ https://ythls.armelin.one/channel/UCWeum91XCJ0RmTG8R4d8TFg.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/NghPm1DSYLx1sF4F3pB1Kls2G5jzJSK0U2cCx0YV9efI4gYsQ1zlAVOZHYbPEDcLGRzOUJdO_A=s900-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA",  Radio HEXA Luzuriaga
 https://ythls.armelin.one/channel/UCtd-EN6Zjopzf7wmoYIdFAQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/97sLhCzI_E89ZkqUzcJiB5qwaurcB0o7XYP979p34w82R2r_7ZtQZhxKAV8POPFq3IMDrxbaXBk=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA",  FMVale975 
-https://ythls.armelin.one/channel/UC1Oa7gHuqzGHB90FPb0ssPA.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/5T7A84Ex9lSEXZsIsO36xhT2panO8JQyrJo-L9o6tg-dZfNd-e7wJwerPGkZSYwhObDWmy8v=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", Radio Rebelde AM 740
 https://ythls.armelin.one/channel/UCdW4mWl91eph-zOtdLrKcIQ.m3u8
