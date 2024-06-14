@@ -14,7 +14,7 @@ http://190.11.130.46/mnp/espn3/output.mpd
 http://190.11.130.46/mnp/espn_extra/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="LA LLAMA Sports", FOX Sports
-http://45.5.151.151:8000/play/a0bf/index.m3u8
+http://190.11.130.46/mnp/fox_sport/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="LA LLAMA Sports", FOX Sports 2
 http://190.11.130.46/mnp/fox_sport2/output.mpd
