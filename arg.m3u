@@ -1560,10 +1560,7 @@ http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1374019613231579138/8hXClQRl_400x400.jpg" group-title="CHACO", CIUDAD TV CHACO
-http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1374019613231579138/8hXClQRl_400x400.jpg" group-title="CHACO", CIUDAD TV CHACO
-https://617c5175c970b.streamlock.net:4444/chacodxdtv/live/playlist.m3u8
+https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/radioplus1035.com.ar/wp/wp-content/uploads/2021/05/cropped-133737876_867518750733014_8075470442578818509_o-1.jpg?w=512" group-title="CHACO", CANAL 6 PLUS TV  PRESIDENCIA DE LA PLAZA  CHACO
 https://videostream.shockmedia.com.ar:19360/plustv/plustv.m3u8
@@ -1573,9 +1570,6 @@ https://vivo.solumedia.com:19360/chaco/chaco.m3u8
 
 #EXTINF:-1 tvg-logo="https://master.com.ar/wp-content/uploads/elementor/thumbs/marca-nyqh8cyauft6w7gve8cb531x6yie6txaskt7ewh5vk.png" group-title="CHACO", MASTERS FM 89.9 RESISTENCIA
 https://streamlov.alsolnet.com/radiomasterfm/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fmlosangeles.com.ar/img/logo_1701796523.png" group-title="CHACO", LOS ANGELES TV
-https://inliveserver.com:1936/9002/9002/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-IF-GL1j7RKI2vNaHYZcvPZ9NK2jjeh90PkRVx=s900-c-k-c0x00ffffff-no-rj" group-title="CHACO", TIV TRES ISLETAS CHACO
 https://videohd.live:19360/8008/8008.m3u8
