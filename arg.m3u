@@ -2125,7 +2125,7 @@ https://panel.dattalive.com/8076/8076/playlist.m3u8
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/images_15.jpg?itok=L3aJf_Bt" group-title="MISIONES", CANAL 21 POSADAS
-https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-o3GQ_5-eMUQ/XdghLlaXsJI/AAAAAAAAJek/hXsgZgK054ke--p_pshwTXkROwYJNkZ_ACLcBGAsYHQ/s1600/radio-la-retro.png" group-title="MISIONES", RADIO LA RETRO PUERTO RICO MISIONES
 https://video.tecnosoul.com.ar:8443/live/656db4dcdd70b-1/index.m3u8
@@ -2332,9 +2332,6 @@ http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://one951.com.ar/wp-content/uploads/2023/10/cropped-logo-blanco-one-951.png" group-title="SAN JUAN",ONE FM 95.1 
 https://stmvideo2.livecastv.com/oneradio/oneradio/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="SAN JUAN", CANAL 79 SAN JUAN
-https://streamconex.com:1936/sanjuan/sanjuan/chunklist_w759674935.m3u8
-
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/6vt8JAXtQs3RxTcSBs2oSDQV1STdC9cO7Q_36OXRoajKbIaCJn0kwbEIItqs45937SCj0Gca=s900-c-k-c0x00ffffff-no-rj" group-title="SAN JUAN", ALBARDON TV SAN JUAN
 https://vd01.streaminghd.net.ar:3451/stream/play.m3u8
 
@@ -2484,8 +2481,8 @@ https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 https://vivo.solumedia.com:19360/tves/tves.m3u8
 
 #EXTINF:-1 tvg-logo="https://tdconline.com.ar/wp-content/uploads/2022/05/online.png" group-title="SANTA FE", TDC TV SANTA FE
-https://5e7cdf2370883.streamlock.net/tdconline/tdconline/chunklist_w790672063.m3u8
-  
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/595606877175689216/x0mTiDts.jpg" group-title="SANTA FE", CABLE IMAGEN ARMSTRONG SANTA FE
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
 
