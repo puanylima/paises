@@ -212,6 +212,9 @@ https://g5.proy-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6bFkcbsklRXLeB2ajrnCl8/c5ccbf53c3ab168c6448fb76265d5778/canal-quiero-musica.png?fm=webp&q=80" group-title="NACIONALES" , Quiero Música
 http://181.191.140.2:8000/play/a0g8/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6bFkcbsklRXLeB2ajrnCl8/c5ccbf53c3ab168c6448fb76265d5778/canal-quiero-musica.png?fm=webp&q=80" group-title="NACIONALES" , Quiero Música
+https://ythls.armelin.one/channel/UC_-fqnv3Rp8k9VJ06_aDIHg.m3u8
+
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://pbs.twimg.com/profile_images/607708464257896448/1JrRLGLc_400x400.jpg" group-title="NACIONALES", ARGENTINISIMA SATELITAL
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
@@ -436,9 +439,11 @@ https://ythls.armelin.one/channel/UCgLBmUFPO8JtZ1nPIBQGMlQ.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UEATPU2rMqerCid0coyZKs0xrv2MB7hsQy0EW2e0z1pVW9cbDrLTrluWqlI_D2UaTxhPF-TFiA=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", Bondi Live
 https://ythls.armelin.one/channel/UCnZidingmuqNkaT9Wm64Xxg.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/BGIQ0u-6bndxhdtmvjI4xsUtH_Lqh4zKnYsO9QJESkSKurPkPxERVf6pkZxomqFBsoau6RMU-ks=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", eltrece YT STREAM
+https://ythls.armelin.one/channel/UC0DM_mHV2u6dj8ig51GkQwg.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uaMgzd4i0iGHxpaBRJVYFYRpWBWBqDJdhysytSXMKvtEo1AsLWj1KIqaMWzMP8q-8MCHRq-_UQ=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", Telefe YT STREAM
+https://ythls.armelin.one/channel/UCHc3el42hXKKhjs_1vzWk9A.m3u8
 
 
 
