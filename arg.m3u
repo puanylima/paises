@@ -298,7 +298,7 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0021
 https://ythls.armelin.one/channel/UCy3MW5Goy1epjhvtjalzbKg.m3u8 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lq90qVBWRaNJxcH70Jlko05VWx2iwDf8vL4jGMJ5MnmCs=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", El Destape TV 24.6
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0073
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0074
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lq90qVBWRaNJxcH70Jlko05VWx2iwDf8vL4jGMJ5MnmCs=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", El Destape TV 24.6
 https://ythls.armelin.one/channel/UC5wAqJ9NF0fpGH9dVf3h6HA.m3u8 
@@ -355,7 +355,7 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0022
 https://ythls.armelin.one/channel/UC-rI_XNppHJO-Ga4RW_CDKw.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/vPjSedcJZggFmkyjCh8lWuqaDFeuyaLKEOio7xibiwvSs1aUZ7CeyCQenE9TUJPmtqRwHZR3cA=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", DIPUTADOS TV 
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0094
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0097
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/vPjSedcJZggFmkyjCh8lWuqaDFeuyaLKEOio7xibiwvSs1aUZ7CeyCQenE9TUJPmtqRwHZR3cA=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", DIPUTADOS TV 
 https://ythls.armelin.one/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
@@ -1622,7 +1622,7 @@ https://ythls.armelin.one/channel/UCdt3k263GKb3Ua6tCMaQEVg.m3u8
 
 
 #EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="CORDOBA", TELEFE CORDOBA
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0199
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0206
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="CORDOBA" , EL DOCE CORDOBA
 https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
@@ -2030,7 +2030,7 @@ https://ythls.armelin.one/channel/UCVsKOW-o5SZb2wpGmsUWjTw.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.elsietetv.com.ar/wp-content/uploads/2019/07/logo_7_1.png" group-title="MENDOZA", EL SIETE MENDOZA
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0256
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0263
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="MENDOZA", CANAL 9 MENDOZA
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
@@ -2343,7 +2343,7 @@ https://vd01.streaminghd.net.ar:3451/stream/play.m3u8
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--XAMA.png" group-title="SAN JUAN", XAMA UNSJ
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0317
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0324
 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/ig-group.jpg?itok=ToqkzdW4" group-title="SAN JUAN", IGL GROUP TV
 https://vd01.streaminghd.net.ar:3049/stream/play.m3u8
@@ -2425,10 +2425,10 @@ https://ythls.armelin.one/channel/UCI_zuiftc7tc2A4HGEEYRGg.m3u8
 
 
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="SANTA FE", TELEFE ROSARIO 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0344
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0352
 
 #EXTINF:-1 tvg-id="TelefeSantaFe.ar" tvg-logo="https://pbs.twimg.com/profile_images/1669538372061208579/Wibfqd9H_400x400.jpg" group-title="SANTA FE", TELEFE SANTA FE
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0350
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0359
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Eltres_RGB-grad_%28positivo%29.png/153px-Eltres_RGB-grad_%28positivo%29.png" group-title="SANTA FE", EL TRES ROSARIO
 https://ythls.armelin.one/channel/UCW1sJwBOGgPhSPXJ-6pjF6w.m3u8 
