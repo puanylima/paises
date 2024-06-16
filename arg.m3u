@@ -1378,6 +1378,9 @@ https://srv6.zcast.com.br/tvpergamino/tvpergamino/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/517503800169345024/7vwhaz5H_400x400.jpeg" group-title="PCIA BS AS", CANAL 5 AZUL
 https://nd106.republicaservers.com:4433/hls/delpueblomedios/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://telejunin.com/static/images/logo/teleJunin.png" group-title="PCIA BS AS", TeleJunin
+https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
+
 #EXTINF:-1 tvg-logo="https://marchitv.ar/wp-content/uploads/2022/05/IsologoMarchiTVFinalSINPDO-237x86.png" group-title="PCIA BS AS", Marchi TV
 https://ythls.armelin.one/channel/UCUqGR69RKBZ2sZbSpTThvkw.m3u8
 
