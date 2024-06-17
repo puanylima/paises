@@ -485,16 +485,10 @@ http://streamsy.online:2999/korrigan17/25AUFBdqOi/100
 http://streamsy.online:2999/korrigan17/25AUFBdqOi/992
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="DEPORTIVOS", ESPN
-http://181.78.105.146:2000/play/a064/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="DEPORTIVOS", ESPN
 http://186.148.163.18:8000/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="DEPORTIVOS", ESPN 2
 http://186.148.163.18:8000/play/a01s/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTIVOS", ESPN 3
-http://181.78.105.146:2000/play/a03n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTIVOS", ESPN 3
 http://201.159.113.219:49000/play/a02e/index.m3u8
