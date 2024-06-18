@@ -313,7 +313,7 @@ http://190.11.130.46/mnp/rural/output.mpd
 https://s8.stweb.tv/chacra/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/OttUuKTaZLo0tUG6D9uG2_ZRIt7EaVN7_tVQIO4R3NHwb3QZdyBxK01CTn5JsOhVVdiAdUH2_nY=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Telefe Noticias
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716837368/ei/mIdUZuyQHMuOobIPyJO6wA4/ip/2803%3A9800%3A9097%3A8cb8%3Af012%3A87ec%3A371a%3A22bb/id/8gs-9lsfVQU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOYy5iu4VRnYECWFCQ_dOuSSYmaJ8HObmfVvhKWwpxdtAiBl2LyhEgfRxr_pcUZtmuWgVz7y8lyL2lspN1GLAVZshA%3D%3D/file/index.m3u8
+https://ythls.armelin.one/channel/UChxGASjdNEYHhVKpl667Huw.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NOTICIAS NACIONALES", EL TRECE NOTICIERO 
 https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v3a1/mono.m3u8
