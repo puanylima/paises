@@ -2,13 +2,13 @@
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="LA LLAMA Sports", ESPN  
-http://190.11.130.46/mnp/espn/output.mpd    
+https://tvfuego.cdn.rcs.net.ar/mnp/espn/output.mpd    
     
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn2.png" group-title="LA LLAMA Sports", ESPN 2
-http://190.11.130.46/mnp/espn2/output.mpd
+https://tvfuego.cdn.rcs.net.ar/mnp/espn2/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="LA LLAMA Sports", ESPN 3
-http://190.11.130.46/mnp/espn3/output.mpd
+https://tvfuego.cdn.rcs.net.ar/mnp/espn3/output.mpd
 
 #EXTINF:-1 tvg-id="ESPNExtraHDSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="LA LLAMA Sports", ESPN 4
 http://190.11.130.46/mnp/espn_extra/output.mpd
