@@ -368,22 +368,7 @@ https://ythls.armelin.one/channel/UCStm2uvQKowSXrnCzTWAn6Q.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ar#hbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" audio-track="spa" group-title="HBO", HBO
-http://190.11.130.46/mnp/hbo/output.mpd
-#EXTINF:-1 tvg-id="ar#hbo-2-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" audio-track="spa" group-title="HBO", HBO 2
-http://190.11.130.46/mnp/hbo2/output.mpd
-#EXTINF:-1 tvg-id="ar#hbo-plus-este" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" audio-track="spa" group-title="HBO", HBO Plus
-http://190.11.130.46/mnp/hboplus/output.mpd
-#EXTINF:-1 tvg-id="ar#hbo-family-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" audio-track="spa" group-title="HBO", HBO Family
-http://190.11.130.46/mnp/hbofam/output.mpd
-#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png" audio-track="spa" group-title="HBO", HBO Pop
-http://190.11.130.46/mnp/hbopop/output.mpd
-#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" audio-track="spa" group-title="HBO", HBO Xtreme
-http://190.11.130.46/mnp/hboxtr/output.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/HBO%20Mundi.png" group-title="HBO", HBO Mundi
-http://190.11.130.46/mnp/hbomund/output.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/135px-HBO_Signature.svg.png" group-title="HBO", HBO Signature
-http://190.11.130.46/mnp/hbosig/output.mpd
+
 
 
 
@@ -826,6 +811,30 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/57c240242b6d1a5c925fe521bb936a79a60d1fa5d2ec8e93ee7f5a1c97bd163c.png" group-title="NOTICIAS INTERNACIONAL", TVGE
 https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
 
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="ar#hbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" audio-track="spa" group-title="HBO", HBO
+http://190.11.130.46/mnp/hbo/output.mpd
+#EXTINF:-1 tvg-id="ar#hbo-2-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" audio-track="spa" group-title="HBO", HBO 2
+http://190.11.130.46/mnp/hbo2/output.mpd
+#EXTINF:-1 tvg-id="ar#hbo-plus-este" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" audio-track="spa" group-title="HBO", HBO Plus
+http://190.11.130.46/mnp/hboplus/output.mpd
+#EXTINF:-1 tvg-id="ar#hbo-family-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" audio-track="spa" group-title="HBO", HBO Family
+http://190.11.130.46/mnp/hbofam/output.mpd
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png" audio-track="spa" group-title="HBO", HBO Pop
+http://190.11.130.46/mnp/hbopop/output.mpd
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" audio-track="spa" group-title="HBO", HBO Xtreme
+http://190.11.130.46/mnp/hboxtr/output.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/HBO%20Mundi.png" group-title="HBO", HBO Mundi
+http://190.11.130.46/mnp/hbomund/output.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/135px-HBO_Signature.svg.png" group-title="HBO", HBO Signature
+http://190.11.130.46/mnp/hbosig/output.mpd
 
 
 
