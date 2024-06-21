@@ -886,8 +886,8 @@ https://r.mjh.nz/PlutoTV/63eb9255c111bc0008fe6ec4-alt.m3u8
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/pakapaka.png" group-title="INFANTIL", PAKA PAKA 
 https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/0b1c597bedf83ad81c998c648e001696.png" group-title="ANIME - TEEN", eSports Max TV
-http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png" group-title="ANIME - TEEN", ANIME STATION 
+https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1445_Teatrix.png" group-title="ENTRETENIMIENTO", Teatrix
 https://r.mjh.nz/PlutoTV/63ceb6ff60bc8f00088dc625-alt.m3u8
@@ -1674,8 +1674,7 @@ https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
 #EXTINF:-1 tvg-logo="http://uniteve.com.ar/wp-content/themes/uniteve-2017/img/header-logo.png" group-title="CORDOBA", UNITEVE VILLA MARIA CORDOBA
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiourbana.coopmorteros.coop/public/Imagenes/LogoUrbana3.png" group-title="CORDOBA", URBANA TV CANAL 651 MORTEROS CORDOBA
-https://online.coopmorteros.coop/radiourbana/canal01.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/ceosca.jpg?itok=3PvTb4BU" group-title="CORDOBA", CEOSCA TV
 https://stmvideo1.livecastv.com/canal2aldao/canal2aldao/playlist.m3u8
@@ -1721,6 +1720,9 @@ https://videostream.shockmedia.com.ar:19360/cadenaalegriafm/cadenaalegriafm.m3u8
 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/tv-tio-pujio.png?itok=QGApHr8I" group-title="CORDOBA", TV TIO PIJIO 
 https://ssh101-fl.bozztv.com/ssh101/variedades/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiourbana.coopmorteros.coop/public/Imagenes/LogoUrbana3.png" group-title="CORDOBA", URBANA TV CANAL 651 MORTEROS CORDOBA
+https://online.coopmorteros.coop/radiourbana/canal01.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUpZ4U3PrHwfvekbRXCTK7Kzt-Ljs-m3Z4AQ02e=s176-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", Radio Stylo Dolores 92.7
 https://ythls.armelin.one/channel/UChvHz8XEgQjHbuQfCb1Uatw.m3u8
@@ -2025,9 +2027,6 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0265
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="MENDOZA", CANAL 9 MENDOZA
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1478000168016433152/2oEULfiP_400x400.png" group-title="MENDOZA", COOPE TV
-https://redirector.rudo.video/hls-video/1a2b5aadf77ef83e2a5734574db04b1c3385b21d/lacoopetv/lacoopetv.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318990468290646016/D65h3HYF_400x400.jpg" group-title="MENDOZA", JTA TV
 https://streaming.jtamendoza.com/hls/test_hd720.m3u8
 
@@ -2041,7 +2040,7 @@ https://vivo.solumedia.com:19360/otrasvoces/otrasvoces.m3u8
 https://play.nexolife.com:443/mendozaTV/7b7a53e239400a13bd6be6c91c4f6c4e.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mpk81Y563tGd7KYHWS9uodr3FuO_ikIRQPW6GW87XZyA=s176-c-k-c0x00ffffff-no-rj" group-title="MENDOZA", CANAL 10 SAN RAFAEL
-https://tv.streamcasthd.com:3436/live/tvdiezlive.m3u8
+http://stream.shockmedia.com.ar:1935/canal10sanrafael/canal10sanrafael/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://auroraargentina.com/css//programas/Aurora.png" group-title="MENDOZA", AURORA ARGENTINA 91.3 
 https://live.enhdtv.com:19360/auroraradio/auroraradio.m3u8
@@ -2060,9 +2059,6 @@ https://5f700d5b2c46f.streamlock.net/fmjardin/fmjardin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICIUDME.png" group-title="MENDOZA", CIUDAD FM 90.5 MENDOZA
 https://cs1.xcast.com.br/7214/7214/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.unidosenlibertad.com/img/LOGO%20RADIO.jpg" group-title="MENDOZA", Unidos en Libertad 104.7 TV 
-https://panel.dattalive.com/8120/8120/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/JBx_vll8WvdTTDiq-MvvZWMQ0Ky4DcbIq5iM4CwM95RSKpQBc-krcwQJzmvJGVfAZQ=w526-h296-rw" group-title="MENDOZA", MALBEC PLAY TV
 https://streamlov.alsolnet.com/malbecplay/live/playlist.m3u8
@@ -2377,8 +2373,7 @@ https://stream.arcast.live:4443/radiomasi/radiomasi/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1238122166685700096/9Ejo5bYX_400x400.jpg" group-title="SANTA CRUZ", CANAL 9 SANTA CRUZ
-https://videostream.shockmedia.com.ar:19360/canal9santacruz/canal9santacruz.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnB0c3RhY3J1emFwcHBybGw0Ni5jYW5hbDVwaWNvdHJ1bmNhZG9hcHBfc2NyZWVuXzJfMTUzMjM1ODEyOV8wNTE/screen-2.jpg?fakeurl=1&type=.jpg" group-title="SANTA CRUZ", CANAL 5 PICO TRUNCADO SANTA CRUZ
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
@@ -2403,6 +2398,9 @@ https://vivo.solumedia.com:19360/radiosanjorge/radiosanjorge.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUcf3w7oCcCu4-p8up6G2JRySUo7ry6zN0DD26B_A=s176-c-k-c0x00ffffff-no-rj" group-title="SANTA CRUZ", Diario Nuevo Día
 https://ythls.armelin.one/channel/UCI_zuiftc7tc2A4HGEEYRGg.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1238122166685700096/9Ejo5bYX_400x400.jpg" group-title="SANTA CRUZ", CANAL 9 SANTA CRUZ
+https://videostream.shockmedia.com.ar:19360/canal9santacruz/canal9santacruz.m3u8
 
 
 
@@ -2829,9 +2827,6 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOJpLEJCsf0Us4F3V5tXbao6q1Uoi-qRHNGjFWWtrmhPofnqI1oNbH-TrVRc3n0Po6c-I&usqp=CAU" group-title="ANIME - TEEN", PANDAMAX TV
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png" group-title="ANIME - TEEN", ANIME STATION 
-https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/dios-te-ve-kids.png?itok=xLOZt-hW" group-title="INFANTIL", DIOS TV VE KIDS
 https://s.emisoras.tv:8081/diostevekids/tracks-v1a1/mono.m3u8
@@ -4948,9 +4943,6 @@ https://streamconex.com:1936/mardelplata/mardelplata/chunklist_w1822903658.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 SANTA CLARA DEL MAR
 https://streamconex.com:1936/santaclara/santaclara/chunklist_w1631229123.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 SAN JUAN
-https://streamconex.com:1936/sanjuan/sanjuan/chunklist_w1240411331.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 LA COSTA
 https://streamconex.com:1936/lacosta/lacosta/chunklist_w1898224032.m3u8
