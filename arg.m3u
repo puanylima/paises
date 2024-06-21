@@ -1992,6 +1992,9 @@ https://stmvideo3.livecastv.com/fenixrioja/fenixrioja/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--13LR.png" group-title="LA RIOJA", CANAL 13 LA RIOJA
 https://stream.arcast.net:4443/mp/mp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.sevenmedia.com.ar/wp-content/uploads/2023/03/seven.png" group-title="LA RIOJA", SEVEN MEDIA
+https://stmvideo1.livecastv.com/lariojainforma/lariojainforma/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/weVy6A9B_400x400%20%281%29_1.jpg?itok=OgaVRqc7" group-title="LA RIOJA", TEVE OCHO CHEPES LA RIOJA
 https://srvchp.witel.ar:1936/live/teveocho/playlist.m3u8  
 
@@ -2000,9 +2003,6 @@ https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 
 #EXTINF:-1 tvg-logo="https://fmpucara917.com/uploads/logo/logo_5ccca1e3a8bcc.png" group-title="LA RIOJA", FM PUCARA 91.7 CHILECITO
 https://stmvideo1.livecastv.com/fmpucara/fmpucara/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICIU947.png" group-title="LA RIOJA", FM Ciudad 94.7 La Rioja 
-https://stmvideo1.livecastv.com/lariojainforma/lariojainforma/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiolibertadlarioja.com.ar/wp-content/uploads/2023/05/cropped-LOGO-RADIO-LIBERTAD-NUEVO1-transp.png" group-title="LA RIOJA", RADIO LIBERTAD La Rioja 
 https://stmvideo1.livecastv.com/libertad/libertad/playlist.m3u8
