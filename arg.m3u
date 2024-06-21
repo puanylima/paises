@@ -1019,7 +1019,7 @@ https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderos
 https://panel.host-live.com:19360/lamixfm/lamixfm.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/894572709170032640/lf59GoQx_400x400.jpg" group-title="AMBA", TELECREATIVA LANUS
-https://panel.host-live.com/8012/8012/playlist.m3u8   
+https://panel.host-live.com/8012/8012/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1629522482/image_400x400.jpg" group-title="AMBA", CANAL 4 TELEAIRE SAN MARTIN
 https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
@@ -1031,7 +1031,7 @@ https://stream.arcast.com.ar/canal6moreno/canal6moreno/playlist.m3u8
 https://nd106.republicaservers.com/hls/skerk4747/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1374815971156889603/4CFJ_AIG_400x400.jpg" group-title="AMBA", MI PAIS TV
-https://panel.dattalive.com/8024/8024/playlist.m3u8
+https://panel.host-live.com/8024/8024/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/vector-gratis/inspiracion-diseno-logotipo-microfono_57043-231.jpg" group-title="AMBA", DEJANDO HUELLAS
 https://inliveserver.com:1936/9014/9014/playlist.m3u8
