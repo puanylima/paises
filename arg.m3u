@@ -928,17 +928,17 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Pakapaka_canal_logo.svg/290px-Pakapaka_canal_logo.svg.png" group-title="TDA NACIONAL", PAKA PAKA 22.2
 https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" group-title="TDA NACIONAL", AUNAR 22.3
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqPvjdUpx1Xvw5M760MJGQ6MlvizdadsI0-LhRkb2CDSBE3w0C-ATwuJ_rCR7iB7_SE-OdA1J72yU_wPan3RKJQgD_desM4j4B-1hqHg1Y-6HcAezz7iix0NaaO7sqASvfXEnf1D2f3NmmmAFRqt94IAQNksHGK2gXsLNn9dm4skAyWur6ME-2uK_t/s1600/aunar-2022.png" group-title="TDA NACIONAL", AUNAR 22.3
 https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cinear.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CINEARLogo.png" group-title="TDA NACIONAL", CINEAR 22.4
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TecTV.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/tec.png" group-title="TDA NACIONAL", TEC 22.5
+#EXTINF:-1 tvg-id="TecTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Nuevo_logo_TEC_2022.png" group-title="TDA NACIONAL", TEC TV 22.5
 https://vd01.streaminghd.net.ar:3787/live/jcslppmtlive.m3u8
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TV_PUBLICA.jpg" group-title="TDA NACIONAL", TV PUBLICA 23.1
-https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.construirtv.com/wp-content/uploads/2020/03/Logo_300.png" group-title="TDA NACIONAL", CONSTRUIR TV 23.2
 http://190.11.130.46/mnp/construiriptv/output.mpd
@@ -961,7 +961,7 @@ http://190.11.130.46/mnp/ip/output.mpd
 #EXTINF:-1 tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="TDA NACIONAL", CANAL E 24.6
 https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/unife.png" group-title="TDA NACIONAL", UNIFE 25.1
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Wt94ulT522DHedSNj6m-PCw3tWpBMN7LF0VhIslu4x1-udZ9CtMUrHpFQZQ-U97HPIY=w240-h480" group-title="TDA NACIONAL", UNIFE 25.1
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/f512804f6e6641e38106a47f681cfffa/chunklist_b4628000.m3u8?p=79&s=1694000298&e=1694000418&h=39bea3dca2e5ba6c6e0fcda0b14067b8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/C5N.jpg" group-title="TDA NACIONAL", C5N 25.2
