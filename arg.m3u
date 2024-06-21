@@ -2752,8 +2752,6 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" group-title="INFANTIL" , Los Tres Chiflados
-https://stitcher.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://i.paste.pics/d70bd8de125ec9cee654a09743c6d533.png" group-title="INFANTIL", Magic Kids 
 https://magicstream.ddns.net/magicstream/stream.m3u8
@@ -2844,9 +2842,6 @@ https://s.emisoras.tv:8081/diostevekids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/580b57fcd9996e24bc43c515.png" group-title="ANIME - TEEN", ANGRY BIRDS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=29d976831067d48c1669f305dcaea6f9&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&livestream=1&timestamp=1616162944&id=266911&ip=92.38.148.59&override_expiration=1500&sign=xjG7CjbtexmXurqdKFkyO0wdwLtEAWU50VjIK587uGs%3D
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuvt0IcJci42IBZ3PoVHr-31U-Vu3dQu3ABnA6t29GvzfwUChP4cLRHvJUzhC5kOtx-s0&usqp=CAU" group-title="INFANTIL", BABY SHARK TV
-https://newidco-babysharktv-2-mx.samsung.wurl.tv/3000.m3u8
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/WKyB2LbJJb2-5cfvdvW3OdsAP_TXcWdPnudv-zCNwW9G6Flse8aAMFii79MDIO2VJZA" group-title="INFANTIL", TOON GOGGLES
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
 
@@ -2859,8 +2854,7 @@ http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/92b21f52515650e020589b8f3496d3fe.png/revision/latest?cb=20180817012008" group-title="INFANTIL", TELETUBBIES
 https://dhx-teletubbies-1-gb.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/gogo-play.png?itok=y2h4WQK8" group-title="INFANTIL", Gogoplay TV
-https://cageu.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
+
 
 
 
