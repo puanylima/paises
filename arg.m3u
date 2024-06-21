@@ -272,13 +272,13 @@ http://190.11.130.46/mnp/lnmas/output.mpd
 https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/1x137ostiNGYbXe5sP-LYMun9ghpr_uz54WATZM7rVeBBrDV-8DQV0Hy8Fv8kbWeX_BIY48Vbng=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", EXTRA TV
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0022
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0023
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/1x137ostiNGYbXe5sP-LYMun9ghpr_uz54WATZM7rVeBBrDV-8DQV0Hy8Fv8kbWeX_BIY48Vbng=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", EXTRA TV
 https://ythls.armelin.one/channel/UCy3MW5Goy1epjhvtjalzbKg.m3u8 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lq90qVBWRaNJxcH70Jlko05VWx2iwDf8vL4jGMJ5MnmCs=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", El Destape TV 24.6
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0075
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0076
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lq90qVBWRaNJxcH70Jlko05VWx2iwDf8vL4jGMJ5MnmCs=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", El Destape TV 24.6
 https://ythls.armelin.one/channel/UC5wAqJ9NF0fpGH9dVf3h6HA.m3u8 
@@ -329,13 +329,13 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0007
 https://ythls.armelin.one/channel/UCz9Z9Qu-eZDkDnQ6lgI1YSQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/GmKYEDNukShC6vUJU-drXQMkllMCZK184gRIMBulv41Z0suNzAw-uwhY6ViGlDh07oAcORvp=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", El Observador 107.9
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0023
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0024
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/GmKYEDNukShC6vUJU-drXQMkllMCZK184gRIMBulv41Z0suNzAw-uwhY6ViGlDh07oAcORvp=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", El Observador 107.9
 https://ythls.armelin.one/channel/UC-rI_XNppHJO-Ga4RW_CDKw.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/vPjSedcJZggFmkyjCh8lWuqaDFeuyaLKEOio7xibiwvSs1aUZ7CeyCQenE9TUJPmtqRwHZR3cA=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", DIPUTADOS TV 
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0100
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0101
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/vPjSedcJZggFmkyjCh8lWuqaDFeuyaLKEOio7xibiwvSs1aUZ7CeyCQenE9TUJPmtqRwHZR3cA=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", DIPUTADOS TV 
 https://ythls.armelin.one/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
@@ -351,7 +351,6 @@ https://ythls.armelin.one/channel/UCRyGJcJYqqiCByEaUhDLMsw.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/SYF5BHG2NEezqYYqnZNSmQR-Fc4DuguOJ1-qW47XDeogzBJk-bo4OnnDJQWQaK-4d7jHhpHMv3w=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Ahora Play
 https://ythls.armelin.one/channel/UCCSbOixo2xpZc_oToqeq2jQ.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ww7DjZRjD_qoJfcoNBfS7JYncYTdyf_jIsk4O6aVZFk7KEBvwVKJiWG2971CUwlktJ13Cz_E3A=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", CLARÍN - Eventos
 https://ythls.armelin.one/channel/UCjMGMWnToRcQRqmyVB4R2xQ.m3u8
