@@ -37,6 +37,9 @@ http://190.11.130.46/mnp/dxtv/output.mpd
 #EXTI#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/800px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="LA LLAMA Sports", DIRECTV SPORTS
 http://abcnew.site:8880/3ca04303n08/asfefd4wr34/49731
 
+#EXTI#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/800px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="LA LLAMA Sports", DIRECTV SPORTS
+http://jmrk.xyz:3050/148eman@gmail.com/gdQrY6Y3Ht/610349
+
 
 
 
