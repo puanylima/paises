@@ -2440,8 +2440,8 @@ https://videostream.shockmedia.com.ar:19360/canal9santacruz/canal9santacruz.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://www.santafecanal.com.ar/assets/img/logo_rts.png?r=2" group-title="SANTA FE", RTS TELEVISIN SANTAFECINA
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="SANTA FE", TELEFE ROSARIO 
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0354
@@ -2452,20 +2452,20 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0361
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Eltres_RGB-grad_%28positivo%29.png/153px-Eltres_RGB-grad_%28positivo%29.png" group-title="SANTA FE", EL TRES ROSARIO
 https://ythls.armelin.one/channel/UCW1sJwBOGgPhSPXJ-6pjF6w.m3u8 
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m-rLPwMeU5Ch-5NZsIGmfMadzuRqEKPd6zzChhqg=s176-c-k-c0x00ffffff-no-rj" group-title="SANTA FE", CADENA 3 ROSARIO
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0350
+
 #EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/9730866.jpg" group-title="SANTA FE", CANAL LUZ
 https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p/index.m3u8  
-
-#EXTINF:-1 tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2022/06/power-max-logo-2022.png" group-title="SANTA FE", POWER MAX 
-https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8LPw-2NROAydBROCEBS7Vh2pGq4r_ecijUDPNjVXKcitaXEnojMVM3Nsh2SWR9brUJW0&usqp=CAU" group-title="SANTA FE", SANTA FE CANAL
-http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ.jpg" group-title="SANTA FE", LITUS TV SANTA FE
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.loteriasantafe.gov.ar/templates/loteria/images/logo.png" group-title="SANTA FE", LOTERIA SANTA FE
 https://ythls.armelin.one/channel/UCkw6fIWEwQCMacEFLBzLytA.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2022/06/power-max-logo-2022.png" group-title="SANTA FE", POWER MAX 
+https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZT-LGvNW8OI_VHgUwn6wv9p2HzKmN_iYyRLf54D_DA=s176-c-k-c0x00ffffff-no-rj" group-title="SANTA FE", EL LITORAL SANTA FE
 https://ythls.armelin.one/channel/UCRtZO3mPqvCMYfmJogXyW7g.m3u8
@@ -2475,9 +2475,6 @@ https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/canal-5-del-pueblo.png?itok=xeDioec1" group-title="SANTA FE", CANAL 5 DEL PUEBLO
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m-rLPwMeU5Ch-5NZsIGmfMadzuRqEKPd6zzChhqg=s176-c-k-c0x00ffffff-no-rj" group-title="SANTA FE", CADENA 3 ROSARIO
-https://ythls.armelin.one/channel/UCNxohbqfDp8YxW_Mji2XMHA.m3u8
 
 #EXTINF:-1 tvg-logo="https://nuevomundotv.com.ar/images/logonm.svg" group-title="SANTA FE", NUEVO MUNDO CANAL 10
 https://tecnica.nuevomundotv.com.ar:446/hls/canal10_480p1128kbs/index.m3u8
@@ -2490,6 +2487,12 @@ https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_360p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZk-YY4FHlvdlIoFyLCEc68RIlo-XdhZ5lMvG9DFw=s176-c-k-c0x00ffffff-no-rj" group-title="SANTA FE", AIRE DE SANTA FE
 https://unlimited1-buenosaires.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cadenaregional.com/wp-content/uploads/2021/11/logo-CR.png" group-title="SANTA FE", CADENA REGIONAL MAXIMO PAZ
+https://vivo.solumedia.com:19360/argento/argento.m3u8
+
+#EXTINF:-1 tvg-logo="https://cadenaregional.com/wp-content/uploads/2021/11/logo-CR.png" group-title="SANTA FE", CADENA REGIONAL ALCORTA
+https://vivo.solumedia.com:19360/argento3/argento3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.12informa.com.ar/wp-content/uploads/2020/07/logocanal12.png" group-title="SANTA FE", CANAL 12 VENADO TUERTO
 https://nd106.republicaservers.com/hls/diegologonitv/index.m3u8
@@ -2504,7 +2507,7 @@ https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 https://vivo.solumedia.com:19360/tves/tves.m3u8
 
 #EXTINF:-1 tvg-logo="https://tdconline.com.ar/wp-content/uploads/2022/05/online.png" group-title="SANTA FE", TDC TV SANTA FE
-https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
+https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/595606877175689216/x0mTiDts.jpg" group-title="SANTA FE", CABLE IMAGEN ARMSTRONG SANTA FE
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
