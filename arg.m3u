@@ -1655,7 +1655,7 @@ https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 https://stream.arcast.live/canalu/canalu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LV3.png" group-title="CORDOBA", CADENA 3 CORDOBA
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0203
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0204
 
 #EXTINF:-1 tvg-logo="https://radiomaria.org.ar/contenido/themes/radioMaria2019/imgs/logo-rm-footer.png" group-title="CORDOBA", RADIO MARIA TV
 https://5f700d5b2c46f.streamlock.net/maria720/maria720/chunklist_w2053024275_DVR.m3u8
@@ -1678,7 +1678,7 @@ https://tv.streamcasthd.com:3614/live/canal9riocuartotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/bv_2_Ib1HlUx_iwLnSkZtPGYV_gQciut9czjC0PLl9QWTlQY3Q73ga1jQFuQZZq14XU7x2oDsw=s176-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", CANAL 4 SAN FRANCISCO CORDOBA
 http://204.199.3.2/.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvcoop.tv/assets/img/logoweb.png" group-title="CORDOBA", CANAL COOP JUSTINIANO POSSE
+#EXTINF:-1 tvg-logo="https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/294077222_725925462156830_3719445387853469072_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHjAR6qIthjrwycwxFaKhPvZfYrlKU_EBBl9iuUpT8QENDTjEPnKKVQIhl7UbhL644&_nc_ohc=tPu89EI_hV4Q7kNvgFFvTNE&_nc_ht=scontent.faep7-1.fna&oh=00_AYCGhkLVEFK1boMmO1ERAo1h-senLyIiX7fuppNaWOmIKg&oe=667D37A2" group-title="CORDOBA", CANAL COOP JUSTINIANO POSSE
 http://csc-nod-edge01.sensa.com.ar/output/NDS/tvcoopjpH/track_0_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Quatro-TV-Rio-Cuarto-en-vivo-Online.png" group-title="CORDOBA", QUATRO TV RIO CUARTO
@@ -1715,10 +1715,10 @@ https://stmvideo1.livecastv.com/canal2aldao/canal2aldao/playlist.m3u8
 https://cdn.sensa.com.ar/output/COR/CaroyaCoopH/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIC3HEAT.png" group-title="CORDOBA", Cadena Heat 91.9 FM
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0204
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0205
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIC3POPU.png" group-title="CORDOBA", La Popu 92.3 FM
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0205
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0206
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EL9NeZb5ZS_dMekegkkZAcxqCl8ILxqUe2Hc_BoeNomYODo87W_aERaiHCeLCMLIjQ" group-title="CORDOBA", FM MAS TV LA CARLOTA CORDOBA
 http://streamlov.alsolnet.com/fmmastv/live/playlist.m3u8
