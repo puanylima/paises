@@ -2661,8 +2661,11 @@ https://ythls.armelin.one/channel/UCS_F0326eeAQY09gFqJILCw.m3u8
 #EXTINF:-1 tvg-logo="https://www.calchaquitv.com.ar/images/logo.png" group-title="TUCUMAN", CALCHAQUI TV
 https://stream.trixserver.com:3836/live/uv068live.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.calchaquitv.com.ar/images/logo.png" group-title="TUCUMAN", CALCHAQUI TV
+#EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/wp-content/uploads/2023/05/Logo-272x90-01.png" group-title="TUCUMAN", CANAL 10 TUCUMAN
 https://cdntvstrm.s.llnwi.net/e1/livesec/canal10tuc.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRK363.png" group-title="TUCUMAN", Mi 92.7 FM Tucuman
+https://videostream.shockmedia.com.ar:19360/rttvoficial/rttvoficial.m3u8
 
 
 
