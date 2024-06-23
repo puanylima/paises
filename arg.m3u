@@ -2638,7 +2638,7 @@ https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8
 https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ob2qAy4_BnP38nhRstDX6Js1yGIC6d7qHK4T6dWlCiN577QmDQz8RI2R6suRWMWGRVsihLEs=s176-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", PANC TV
-https://stream.trixserver.com:3088/live/uv096live.m3u8
+https://tv.streamcasthd.com:3000/live/panctvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n9OhYzpvfe3TOqqksSWvjj5OnwlOpGK7NQShlZrDdVwS0=s900-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", PALOMAR TV
 https://stream.trixserver.com:3249/live/uv038live.m3u8   
