@@ -2659,6 +2659,8 @@ https://ythls.armelin.one/channel/UCS_F0326eeAQY09gFqJILCw.m3u8
 https://stream.trixserver.com:3836/live/uv068live.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://ntvcanal7.ddns.net/Norte%20TV%20%E2%80%93%20Canal%207%20%E2%80%93%20Tucum%C3%A1n_files/encabezado-logo-1.png" group-title="TUCUMAN", 7 NORTE TV
+https://ntvcanal7.ddns.net:81/dash/stream.mpd
 
 
 
