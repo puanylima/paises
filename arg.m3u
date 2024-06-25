@@ -1758,7 +1758,7 @@ https://videohd.live:19360/8078/8078.m3u8
 https://videostream.shockmedia.com.ar:19360/cadenaalegriafm/cadenaalegriafm.m3u8
 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/tv-tio-pujio.png?itok=QGApHr8I" group-title="CORDOBA", TV TIO PIJIO 
-https://ssh101-fl.bozztv.com/ssh101/variedades/tracks-v1a1/mono.m3u8
+https://fl1001.bozztv.com/ssh101/tvtiopujio/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiourbana.coopmorteros.coop/public/Imagenes/LogoUrbana3.png" group-title="CORDOBA", URBANA TV CANAL 651 MORTEROS CORDOBA
 https://online.coopmorteros.coop/radiourbana/canal01.m3u8
@@ -2847,11 +2847,14 @@ https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/MKxancjPSbqrJIaCcndA9s6VkmYrNZC1X4SR7hDaMvJKUMd33qTN6pob2mVkS8Azd2o" group-title="INFANTIL" , DREIKO TV
 https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/monitv.jpg?itok=kFtbKZRm" group-title="INFANTIL", MONI TV
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="INFANTIL", PLANETA TV KIDS
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_db459382223d48f092d71151178a3797~mv2.png/v1/crop/x_0,y_108,w_1080,h_846/fill/w_1080,h_846,al_c,q_90,enc_auto/b22f37_db459382223d48f092d71151178a3797~mv2.png" group-title="INFANTIL", Latino Kids TV 
-https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
+https://cloud5.streaminglivehd.com:3555/stream/play.m3u8
 
 
 
