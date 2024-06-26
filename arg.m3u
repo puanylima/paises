@@ -2248,6 +2248,9 @@ https://srv5.zcast.com.br/radiozero/radiozero/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4BJcl2NoRli5SEQT3N5CfTDOmtpZWgKhEizudiUxFz36tSzGBml2WNqj4g6AbUv9lRy3-22T=s176-c-k-c0x00ffffff-no-rj" group-title="RIO NEGRO", LCR
 https://5f700d5b2c46f.streamlock.net/lcrlacomuna/lcrlacomuna/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/YxLojGAOMKIue0OuAUxuZshBHqciVjfMr9rKxLbvXYa5NI4_vVtUiLtz7WlZ_pIVAj9UP4AFuA=s176-c-k-c0x00ffffff-no-rj" group-title="RIO NEGRO", RADIO C BARILOCHE
+https://inliveserver.com:1936/9008/9008/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUxGZnBDOMrf_nKdtlq-Bk23Iw5AxQDv8K0BmjC=s176-c-k-c0x00ffffff-no-rj" group-title="RIO NEGRO", RADIO PATAGONIA
 https://ythls.armelin.one/channel/UC5pJrGqBvjIrPZWkNtUgL5Q.m3u8  
 
