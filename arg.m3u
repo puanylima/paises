@@ -69,13 +69,9 @@ https://tvfuego.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="LA LLAMA Sports", Tango Sports 
-http://galaxypro.online:8080/GW7LVYqqEwjy/aR3tGgBZbC2S/99755
-
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="LA LLAMA Sports", Tango Sports 2
-http://galaxypro.online:8080/GW7LVYqqEwjy/aR3tGgBZbC2S/99766
-
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="LA LLAMA Sports", Tango Sports 3
 http://jmrk.xyz:3050/148eman@gmail.com/gdQrY6Y3Ht/610382
 
 
@@ -2570,6 +2566,9 @@ https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Nn-cK0S7_4_pGQXM1SqbbDJfcHY0KtdKQrDxONaCjdZhkx_iMnNXT8RM3V5J9oCf2E8=w240-h480" group-title="SANTA FE", CADENA 2000 SAN GUILLERMO
 https://stream.trixserver.com:3343/live/uv073live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.radiovozrosario.com/img/logo_1654005182.png" group-title="SANTA FE", RADIO VOZ ROSARIO
+https://inliveserver.com:1936/17020/17020/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/JWFKR6BOGAGiDBda_h0jskYU2Eu2WEiyC38cb0vWEI15rXMOmMd_butecI1MyrkVBt-AXu7qdw=s176-c-k-c0x00ffffff-no-rj" group-title="SANTA FE", Canal 2 San Justo SF
 https://ythls.armelin.one/channel/UCJIHNzhqQdw0WifcOwojz9Q.m3u8
