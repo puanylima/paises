@@ -446,13 +446,10 @@ http://186.148.163.18:8000/play/a04h/index.m3u8
 http://181.78.71.5:4890/play/a03z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png" group-title="DEPORTIVOS", ESPN 6
-http://181.205.130.194:4000/play/a07t/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png" group-title="DEPORTIVOS", ESPN 6
 http://201.159.113.219:49000/play/a05f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/504px-ESPN_7_logo.svg.png" group-title="DEPORTIVOS", ESPN 7
-http://181.205.130.194:4000/play/a07s/index.m3u8
+http://181.78.20.119:8002/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/800px-ESPN_Premium_logo.svg.png" group-title="DEPORTIVOS", ESPN PREMIUN MX
 http://186.148.163.18:8000/play/a050/index.m3u8
