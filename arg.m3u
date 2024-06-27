@@ -2367,7 +2367,7 @@ https://vd01.streaminghd.net.ar:3451/stream/play.m3u8
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--XAMA.png" group-title="SAN JUAN", XAMA UNSJ
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0326
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0327
 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/ig-group.jpg?itok=ToqkzdW4" group-title="SAN JUAN", IGL GROUP TV
 https://vd01.streaminghd.net.ar:3049/stream/play.m3u8
@@ -2454,16 +2454,16 @@ https://videostream.shockmedia.com.ar:19360/canal9santacruz/canal9santacruz.m3u8
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="SANTA FE", TELEFE ROSARIO 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0354
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0355
 
 #EXTINF:-1 tvg-id="TelefeSantaFe.ar" tvg-logo="https://pbs.twimg.com/profile_images/1669538372061208579/Wibfqd9H_400x400.jpg" group-title="SANTA FE", TELEFE SANTA FE
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0361
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0362
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Eltres_RGB-grad_%28positivo%29.png/153px-Eltres_RGB-grad_%28positivo%29.png" group-title="SANTA FE", EL TRES ROSARIO
 https://ythls.armelin.one/channel/UCW1sJwBOGgPhSPXJ-6pjF6w.m3u8 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m-rLPwMeU5Ch-5NZsIGmfMadzuRqEKPd6zzChhqg=s176-c-k-c0x00ffffff-no-rj" group-title="SANTA FE", CADENA 3 ROSARIO
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0351
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0352
 
 #EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/9730866.jpg" group-title="SANTA FE", CANAL LUZ
 https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p/index.m3u8  
