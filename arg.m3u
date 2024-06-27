@@ -1901,6 +1901,12 @@ https://videohd.live:19360/8096/8096.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-i_6us5hKR0M/X40Q2cKWFHI/AAAAAAAAP50/yCMLNOmyUhohJFnYsbgZdB_bCNWCNjAJQCLcBGAsYHQ/s0/radio-costa-parana-fm-88-1.png" group-title="ENTRE RIOS", COSTA PARANA 88.1 FM
 https://panel.host-live.com/8108/8108/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://radiolatina.ar/wp-content/uploads/2022/02/radiolatinalogo.png" group-title="ENTRE RIOS", LATINA 87.5 FM PARANA
+https://cs1.xcast.com.br/7546/7546/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio7899_1457012436.jpg" group-title="ENTRE RIOS", PLANET 95.1 FM PARANA
+https://cs1.xcast.com.br/8884/8884/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJV402YRaAG3orjwhyhjntvRD5_e1cuK0L81dxMKUA=s176-c-k-c0x00ffffff-no-rj" group-title="ENTRE RIOS", Tele5 Digital
 https://ythls.armelin.one/channel/UC5lUjiuS_elD_bnWgVW3_JQ.m3u8
 
