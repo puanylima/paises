@@ -2290,7 +2290,7 @@ https://ythls.armelin.one/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/182lIA0RwU35mgnPDd0dCdQMqIUSmyfNyJFBPyWBi6ZoGfPi-sxF5sY09riVLaZG7DhP" group-title="SALTA", CANAL 7 SALTA
-https://ssh101-fl.bozztv.com/ssh101/canal7salta/tracks-v1a1/mono.m3u8
+https://glb.bozztv.com/glb/ssh101/canal7salta/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/856175574116683777/HnWIt3t9_400x400.jpg" group-title="SALTA", MILENIUM TV SALTA
 https://videostream.shockmedia.com.ar:19360/milleniumtv/milleniumtv.m3u8
